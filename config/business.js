@@ -1,7 +1,7 @@
 export const business = {
   name: "MUAZ Construction Group Inc.",
-  phone: "718-866-7562",
-  phoneLink: "tel:+17188667562",
+  phone: "347-415-3939",
+  phoneLink: "tel:+13474153939",
   email: "muaz.construction.group.inc4@gmail.com",
   emailLink: "mailto:muaz.construction.group.inc4@gmail.com",
   serviceArea: "New York Metro",
